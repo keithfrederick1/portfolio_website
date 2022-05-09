@@ -106,7 +106,7 @@ const BackgroundAnimation = () => (
         rx="1.07433"
         ry="1.07306"
         transform="translate(-382.164 -155.029) rotate(90 382.164 155.029)"
-        fill="#F46737"
+        fill="#00cca7"
       >
         <animateMotion
           dur="10s"
@@ -137,7 +137,7 @@ const BackgroundAnimation = () => (
         rx="1.07306"
         ry="1.07433"
         transform="translate(-333.324 -382.691) rotate(-180 333.324 382.691)"
-        fill="#F46737"
+        fill="##38acd6"
       >
         <animateMotion
           dur="5s"
@@ -151,7 +151,7 @@ const BackgroundAnimation = () => (
       <path
         d="M333.667 382.335L359.42 356.551"
         transform="scale(-1 1) translate(-333.667 -382.335) rotate(45 333.667 382.335)"
-        stroke="url(#paint6_linear)"
+        stroke="url(#paint5_linear)"
       >
         <animateMotion
           dur="5s"
@@ -168,7 +168,7 @@ const BackgroundAnimation = () => (
         rx="1.07306"
         ry="1.07433"
         transform="translate(-165.524 -93.9596)"
-        fill="#F46737"
+        fill="#f3f718"
       >
         <animateMotion
           dur="10s"

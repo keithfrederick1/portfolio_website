@@ -8,8 +8,7 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the web development world.
-      From Back-end To Design
+      I've worked with a range a technologies in web development, across entire stack
     </SectionText>
     <List>
       <ListItem>
@@ -19,8 +18,12 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experiece with <br />
-            React.js
+            React.js <br />
+            Next.js <br />
+            HTML5 <br />
+            CSS3 <br />
+            TypeScript, JavaScript <br />
+            MUI, Tailwind.css, Bootstrap, Styled Components
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -31,8 +34,9 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            Node and Databases
+            Express <br />
+            Node <br />
+            SQL & NoSQL Databases <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -44,7 +48,8 @@ const Technologies = () =>  (
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>
             Experience with <br />
-            tools like Figma
+            Figma, Photoshop and Draw.io <br />
+            Wireframes & Product Design <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>

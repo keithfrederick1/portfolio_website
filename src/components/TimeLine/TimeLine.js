@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+      My name is Keith Frederick I’m a full stack software engineer from New Orleans Louisiana with the background and e-commerce and graphic design. In 2016 I started my endeavors with the e-commerce platform Shopify where I realized my passion for creating and designing user interfaces. This later translated into me wanting to learn more about programming in general so I enrolled in a Full stack immersion program called Operation Spark. There I learned many of the different things that I have in my toolbelt now, from basic concepts in functional programming to more complex things, languages and frameworks on a full stack and industry standard level. After three  years of studying there I graduated and received a certification for full stack web development and have been immersed ever since. 
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
